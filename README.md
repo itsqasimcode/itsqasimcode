@@ -10,14 +10,14 @@
 - 💼 Checkout my GitHub repositories on **[React](https://github.com/itsqasimcode?tab=repositories)**, **[Next.js](https://github.com/itsqasimcode?tab=repositories)**, **[TypeScript](https://github.com/itsqasimcode?tab=repositories)** and **Full-Stack projects**.
 - 🌐 Live projects: **[NamKart](https://namkart.com)** ·  **[Car Management System](https://car-management-ivory.vercel.app)**
 - 📬 Open to **Remote & On-site** Front-End roles — feel free to connect on **[LinkedIn](www.linkedin.com/in/qasim4847)**
-- ⚡ I actively build and ship real-world web apps using modern JavaScript frameworks.
+- ⚡ I am actively learning, building and shipping real-world web apps using modern JavaScript frameworks and AI.
 
 ---
 
 ## 📊 Muhammad Qasim's GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsqasimcode&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsqasimcode&show_icons=true&theme=github_light&hide_border=true&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsqasimcode&layout=compact&theme=github_dark&hide_border=true" height="165" />
 </p>
 
