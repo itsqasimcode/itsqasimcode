@@ -6,15 +6,15 @@
 </p>
  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsqasimcode&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/stars/itsqasimcode?style=flat&color=0e75b6" alt="GitHub stars" />
 </p>
  
 ---
  
-## What I Build
+## What I Built
  
 I build production-grade, full-stack web applications — React + Next.js on the frontend,
-Node.js + MongoDB on the backend. My focus is UI performance, component architecture,
+Node.js on the backend. My focus is UI performance, component architecture,
 and clean REST API integration.
  
 Both live projects below are deployed and built from scratch — not tutorial clones.
@@ -23,8 +23,8 @@ Both live projects below are deployed and built from scratch — not tutorial cl
  
 ## Currently Building
  
-→ **[NamKart](https://namkart.com)** — iterating on UX, performance, and marketplace experience
-→ **Exploring** — AI SDK and LangChain.js basics; prototyping LLM features in Next.js
+→ **[NamKart](https://namkart.com)** — iterating on UX, performance, and marketplace experience  
+→ **Exploring** — AI SDK and LangChain.js basics; prototyping LLM features in Next.js  
 → **Open to** — frontend or full-stack roles, remote or on-site
  
 ---
@@ -39,8 +39,8 @@ phase produces shareable work. This section will be updated.
 ## Selected Work
  
 ### [NamKart](https://namkart.com)
-> South Asian e-commerce marketplace for the North American market
-> **Stack:** Next.js · React · TypeScript · Node.js · MongoDB
+> South Asian e-commerce marketplace for the North American market  
+> **Stack:** Next.js · React · TypeScript · Node.js 
  
 Full-stack marketplace with product listings, cart, checkout flow, and authentication.
 Independently built and deployed.
@@ -48,8 +48,8 @@ Independently built and deployed.
 ---
  
 ### [Car Management System](https://car-management-ivory.vercel.app)
-> Full-stack vehicle management application
-> **Stack:** Next.js · React · Node.js · MongoDB · REST APIs · Auth
+> Full-stack vehicle management application  
+> **Stack:** Next.js · React · Node.js · REST APIs · Auth
  
 Operational tracking system for vehicle records — CRUD, auth, and REST API layer.
 Functional and deployed.
@@ -59,12 +59,12 @@ Functional and deployed.
 ## Tech Stack
  
 **Daily**
-```
-React   TypeScript   Next.js   Node.js   REST APIs   MongoDB
+```txt
+React   TypeScript   Next.js   Node.js   REST APIs 
 ```
  
 **Exploring**
-```
+```txt
 AI SDK   LangChain.js   Vector Databases   LLM Integrations
 ```
  
@@ -77,19 +77,6 @@ AI SDK   LangChain.js   Vector Databases   LLM Integrations
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
- 
----
- 
-## GitHub Stats
- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsqasimcode&show_icons=true&hide_border=true&count_private=true&theme=default&bg_color=FFFFFF" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsqasimcode&layout=compact&hide_border=true&theme=default&bg_color=FFFFFF" height="165" />
-</p>
- 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=itsqasimcode&theme=github-dark-blue&hide_border=true" />
 </p>
  
 ---
