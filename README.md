@@ -13,9 +13,7 @@
  
 ## What I Built
  
-I build production-grade, full-stack web applications — React + Next.js on the frontend,
-Node.js on the backend. My focus is UI performance, component architecture,
-and clean REST API integration.
+I build production-focused web applications using React and Next.js with emphasis on UI architecture, performance, and API integration.
  
 Selected production-oriented projects and collaborative engineering work.
  
@@ -32,8 +30,7 @@ Selected production-oriented projects and collaborative engineering work.
  
 ## Writing & Thinking
  
-Nothing published yet — technical notes and original repos incoming as the AI exploration
-phase produces shareable work. This section will be updated.
+Currently writing technical notes on frontend architecture patterns and AI integration in web applications.
  
 ---
  
@@ -44,7 +41,7 @@ phase produces shareable work. This section will be updated.
 > **Stack:** Next.js · React · TypeScript · Node.js 
  
 Full-stack marketplace with product listings, cart, checkout flow, and authentication.
-Independently built and deployed.
+Collaboratively built and deployed as part of a frontend engineering team.
  
 ---
  
