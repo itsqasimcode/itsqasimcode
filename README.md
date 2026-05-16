@@ -20,10 +20,10 @@ Selected production-oriented projects and collaborative engineering work.
 ---
  
 ## Currently Exploring
- 
-→ AI SDK and LangChain.js for LLM-powered web applications
-→ Frontend architecture patterns in React and Next.js
-→ Performance optimization and reusable UI systems
+
+→ AI SDK and LangChain.js for LLM-powered web applications  
+→ Frontend architecture patterns in React and Next.js  
+→ Performance optimization and reusable UI systems  
 → **Open to** — frontend or full-stack roles, remote or on-site
  
 ---
