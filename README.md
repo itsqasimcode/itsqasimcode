@@ -1,7 +1,7 @@
 <h1 align="center">Frontend Engineer — React · TypeScript · Next.js</h1>
  
 <p align="center">
-  <em>I turn complex product requirements into fast, accessible React + TypeScript UIs.</em><br/>
+  <em>Building scalable React + Next.js applications focused on UI architecture, performance, and clean API integration.</em><br/>
   <em>Currently exploring AI/LLM integration in web apps.</em>
 </p>
  
@@ -17,14 +17,15 @@ I build production-grade, full-stack web applications — React + Next.js on the
 Node.js on the backend. My focus is UI performance, component architecture,
 and clean REST API integration.
  
-Both live projects below are deployed and built from scratch — not tutorial clones.
+Selected production-oriented projects and collaborative engineering work.
  
 ---
  
-## Currently Building
+## Currently Exploring
  
-→ **[NamKart](https://namkart.com)** — iterating on UX, performance, and marketplace experience  
-→ **Exploring** — AI SDK and LangChain.js basics; prototyping LLM features in Next.js  
+→ AI SDK and LangChain.js for LLM-powered web applications
+→ Frontend architecture patterns in React and Next.js
+→ Performance optimization and reusable UI systems
 → **Open to** — frontend or full-stack roles, remote or on-site
  
 ---
